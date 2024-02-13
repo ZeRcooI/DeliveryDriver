@@ -11,6 +11,4 @@
 
 Небольшой отрывок игры: https://youtu.be/YUQMHNxIcfc
 
-![Screenshot](https://github.com/ZeRcooI/Argon-Assault/blob/main/Assets/ScreenShots/Screenshot%201.jpg)
-![Screenshot](https://github.com/ZeRcooI/Argon-Assault/blob/main/Assets/ScreenShots/Screenshot%202.jpg)
-![Screenshot](https://github.com/ZeRcooI/Argon-Assault/blob/main/Assets/ScreenShots/Screenshot%203.jpg)
+![Screenshot](https://github.com/ZeRcooI/DeliveryDriver/blob/main/Assets/Screenshot/Screenshot%201.jpg)
