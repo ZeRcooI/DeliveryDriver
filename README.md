@@ -9,7 +9,7 @@
 - Разделение объектов и создание игровой логики: Понимание принципов разделения объектов и создания игровой логики сделало игру более структурированной и управляемой.
 - Использование некого задания: Осознание концепции заданий в игре дало понимание необходимости выполнения определенных действий для продвижения в игровом процессе.
 
-Небольшой отрывок игры: [https://youtu.be/KNOUwVO6i1Y](https://youtu.be/lPJ-bPVAfTg)
+Небольшой отрывок игры: [ttps://youtu.be/YUQMHNxIcfc](https://youtu.be/lPJ-bPVAfTg)
 
 ![Screenshot](https://github.com/ZeRcooI/Argon-Assault/blob/main/Assets/ScreenShots/Screenshot%201.jpg)
 ![Screenshot](https://github.com/ZeRcooI/Argon-Assault/blob/main/Assets/ScreenShots/Screenshot%202.jpg)
